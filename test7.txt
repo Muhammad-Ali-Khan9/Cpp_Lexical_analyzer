@@ -1,0 +1,24 @@
+#include<iostream>
+#include<stack>
+
+using namespace std;
+
+struct triangle{
+
+    typedef int measure
+
+    measure length;
+    measure width;
+    measure Area;
+
+};
+
+int main()
+{
+    triangle tri;
+    triangle tri.length = 4;
+    triangle tri.width = 4;
+    triangle tri.Area = 4*4;
+
+    return 0;
+}

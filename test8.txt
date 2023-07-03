@@ -1,0 +1,7 @@
+#include<iostream>
+
+int main()
+{
+    std::cerr"compiler failed";
+    return 0;
+}

@@ -1,0 +1,25 @@
+Line number:1     #include<iostream>            header pre-processor-directive
+Line number:2     #include<conio.h>            header pre-processor-directive
+Line number:4     using            Keyword
+Line number:4     namespace            Keyword
+Line number:4     std            Keyword
+Line number:4     ;            punctuators
+Line number:6     int            data_type
+Line number:6     main            Keyword
+Line number:6     (            opening paranthesis
+Line number:6     )            closing parathesis
+Line number:7     {            opening braces
+Line number:8     char            data_type
+Line number:8     a            Identifier
+Line number:8     =            Assignment operator
+Line number:8     ''            character
+Line number:8     ;            punctuators
+Line number:9     string            data_type
+Line number:9     m            Identifier
+Line number:9     =            Assignment operator
+Line number:9     ""            string
+Line number:9     ;            punctuators
+Line number:10     return            Keyword
+Line number:10     0            integer number
+Line number:10     ;            punctuators
+Line number:11     }            closing brace

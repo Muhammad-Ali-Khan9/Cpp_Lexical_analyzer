@@ -1,0 +1,22 @@
+Line number:1     #include<iostream>            header pre-processor-directive
+Line number:2     #include<ctime>            header pre-processor-directive
+Line number:4     using            Keyword
+Line number:4     namespace            Keyword
+Line number:4     std            Keyword
+Line number:4     ;            punctuators
+Line number:6     class            Keyword
+Line number:6     meta            Identifier
+Line number:6     {            opening braces
+Line number:8     public            Keyword
+Line number:8     :            punctuators
+Line number:10     }            closing brace
+Line number:10     ;            punctuators
+Line number:12     int            data_type
+Line number:12     main            Keyword
+Line number:12     (            opening paranthesis
+Line number:12     )            closing parathesis
+Line number:13     {            opening braces
+Line number:14     return            Keyword
+Line number:14     0            integer number
+Line number:14     ;            punctuators
+Line number:15     }            closing brace

@@ -1,0 +1,15 @@
+Line number:1     #include<iostream>            header pre-processor-directive
+Line number:3     int            data_type
+Line number:3     main            Keyword
+Line number:3     (            opening paranthesis
+Line number:3     )            closing parathesis
+Line number:4     {            opening braces
+Line number:5     std            Keyword
+Line number:5     ::            scope resolution operator
+Line number:5     cerr            Keyword
+Line number:5     "compiler failed"            string
+Line number:5     ;            punctuators
+Line number:6     return            Keyword
+Line number:6     0            integer number
+Line number:6     ;            punctuators
+Line number:7     }            closing brace

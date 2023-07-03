@@ -1,0 +1,21 @@
+Line number:1     #include<iostream>            header pre-processor-directive
+Line number:3     using            Keyword
+Line number:3     namespace            Keyword
+Line number:3     std            Keyword
+Line number:3     ;            punctuators
+Line number:5     int            data_type
+Line number:5     main            Keyword
+Line number:5     (            opening paranthesis
+Line number:5     )            closing parathesis
+Line number:6     {            opening braces
+Line number:8     char            data_type
+Line number:8     ch            Identifier
+Line number:8     =            Assignment operator
+Line number:8     'a'            Character
+Line number:8     ;            punctuators
+Line number:9     string            data_type
+Line number:9     name            Identifier
+Line number:9     =            Assignment operator
+Line number:9     "Haider"            string
+Line number:9     ;            punctuators
+ERROR missing brace

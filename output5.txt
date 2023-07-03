@@ -1,0 +1,33 @@
+Line number:1     #include<iostream>            header pre-processor-directive
+Line number:2     #include<ctime>            header pre-processor-directive
+Line number:3     #include<stdlib.h>            header pre-processor-directive
+Line number:5     using            Keyword
+Line number:5     namespace            Keyword
+Line number:5     std            Keyword
+Line number:5     ;            punctuators
+Line number:7     int            data_type
+Line number:7     main            Keyword
+Line number:7     (            opening paranthesis
+Line number:7     )            closing parathesis
+Line number:8     {            opening braces
+Error: Unidentified character in line 9 Token:#
+Error: Unidentified character in line 9 Token:#
+Line number:10     srand            Keyword
+Line number:10     (            opening paranthesis
+Line number:10     time            Identifier
+Line number:10     (            opening paranthesis
+Line number:10     0            integer number
+Line number:10     )            closing parathesis
+Line number:10     )            closing parathesis
+Line number:10     ;            punctuators
+Line number:11     int            data_type
+Line number:11     num            Identifier
+Line number:11     =            Assignment operator
+Line number:11     rand            Keyword
+Line number:11     (            opening paranthesis
+Line number:11     )            closing parathesis
+Line number:11     ;            punctuators
+Line number:12     return            Keyword
+Line number:12     0            integer number
+Line number:12     ;            punctuators
+Line number:13     }            closing brace

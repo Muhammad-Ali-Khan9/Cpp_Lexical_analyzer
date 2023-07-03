@@ -1,0 +1,58 @@
+Line number:1     #include<iostream>            header pre-processor-directive
+Line number:2     #include<stack>            header pre-processor-directive
+Line number:4     using            Keyword
+Line number:4     namespace            Keyword
+Line number:4     std            Keyword
+Line number:4     ;            punctuators
+Line number:6     struct            Keyword
+Line number:6     triangle            Identifier
+Line number:6     {            opening braces
+Line number:8     typedef            Keyword
+Line number:8     int            data_type
+Line number:8     measure            Identifier
+Line number:10     measure            Identifier
+Line number:10     length            Identifier
+Line number:10     ;            punctuators
+Line number:11     measure            Identifier
+Line number:11     width            Identifier
+Line number:11     ;            punctuators
+Line number:12     measure            Identifier
+Line number:12     Area            Identifier
+Line number:12     ;            punctuators
+Line number:14     }            closing brace
+Line number:14     ;            punctuators
+Line number:16     int            data_type
+Line number:16     main            Keyword
+Line number:16     (            opening paranthesis
+Line number:16     )            closing parathesis
+Line number:17     {            opening braces
+Line number:18     triangle            Identifier
+Line number:18     tri            Identifier
+Line number:18     ;            punctuators
+Line number:19     triangle            Identifier
+Line number:19     tri            Identifier
+Line number:19     .            Other operator
+Line number:19     length            Identifier
+Line number:19     =            Assignment operator
+Line number:19     4            integer number
+Line number:19     ;            punctuators
+Line number:20     triangle            Identifier
+Line number:20     tri            Identifier
+Line number:20     .            Other operator
+Line number:20     width            Identifier
+Line number:20     =            Assignment operator
+Line number:20     4            integer number
+Line number:20     ;            punctuators
+Line number:21     triangle            Identifier
+Line number:21     tri            Identifier
+Line number:21     .            Other operator
+Line number:21     Area            Identifier
+Line number:21     =            Assignment operator
+Line number:21     4            integer number
+Line number:21     *            Arithematic operator
+Line number:21     4            integer number
+Line number:21     ;            punctuators
+Line number:23     return            Keyword
+Line number:23     0            integer number
+Line number:23     ;            punctuators
+Line number:24     }            closing brace

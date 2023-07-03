@@ -1,0 +1,43 @@
+Line number:1     #include<iostream>            header pre-processor-directive
+Line number:2     #include<string>            header pre-processor-directive
+Line number:4     using            Keyword
+Line number:4     namespace            Keyword
+Line number:4     std            Keyword
+Line number:4     ;            punctuators
+Line number:6     struct            Keyword
+Line number:6     Hammad            Identifier
+Line number:6     {            opening braces
+Line number:8     int            data_type
+Line number:8     GPA            Identifier
+Line number:8     ;            punctuators
+Line number:9     string            data_type
+Line number:9     title            Identifier
+Line number:9     =            Assignment operator
+Line number:9     "topper"            string
+Line number:9     ;            punctuators
+Line number:11     }            closing brace
+Line number:11     ;            punctuators
+Line number:13     int            data_type
+Line number:13     main            Keyword
+Line number:13     (            opening paranthesis
+Line number:13     )            closing parathesis
+Line number:14     {            opening braces
+Line number:15     int            data_type
+Line number:15     marks            Identifier
+Line number:15     ;            punctuators
+Line number:16     cout            Keyword
+Line number:16     <<            Bitwise operator
+Line number:16     "Affan"            string
+Line number:16     ;            punctuators
+Line number:17     cout            Keyword
+Line number:17     <<            Bitwise operator
+Line number:17     "Black day"            string
+Line number:17     ;            punctuators
+Line number:18     cin            Keyword
+Line number:18     >>            Bitwise operator
+Line number:18     marks            Identifier
+Line number:18     ;            punctuators
+Line number:20     return            Keyword
+Line number:20     0            integer number
+Line number:20     ;            punctuators
+Line number:21     }            closing brace
